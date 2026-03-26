@@ -6,8 +6,11 @@
 
 ## 👋 About
 
-<H1>
+<H1 style="color:blue;">
  Name: Muhammad Bilal Khan
+</H1>
+
+<H1>
  Computer Engineer and Technologist
 </H1>
 
